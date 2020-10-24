@@ -28,7 +28,7 @@ public class NearestLargestLeft {
 
 	public static void main(String[] args) {
 
-		int arr[] = { 3, 2, 1, 6, 5, 8, 7, 9, 10 };
+		int arr[] = { 3, 2, 1, 6, 5, 8, 7, 9, 10, 11 };
 		nearestLargestLeft(arr);
 	}
 }
